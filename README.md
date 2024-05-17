@@ -6,9 +6,10 @@
 
 3、解包8通道RGBA工具： 将16位RGBA的贴图中的8张8位的灰度图还原出来
 
-![image](https://github.com/Motoyinc/SD_Tool_Lab/assets/53144556/03a1871b-68ce-4180-88f4-4692e0714876)
-
 ![image](https://github.com/Motoyinc/SD_Tool_Lab/assets/53144556/189c7a18-5f1e-45ec-9b50-ed6cd9ff687e)
+
+![图片1](https://github.com/Motoyinc/SD_Tool_Lab/assets/53144556/c768c5dd-4b61-4f58-9709-bcd51a6f9402)
+
 
 3、序列图分离工具： 将一组序列图从中分离出来
 
